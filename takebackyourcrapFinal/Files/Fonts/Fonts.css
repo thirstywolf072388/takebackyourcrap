@@ -1,0 +1,27 @@
+@font-face {
+font-family: "Caviar Dreams";
+src: url("Caviar Dreams.eot") format("eot"); /* IE9 Compat Modes */
+src: url("Caviar Dreams.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+     url("Caviar Dreams.woff") format("woff"), /* Modern Browsers */
+     url("Caviar Dreams.ttf") format("truetype"); /* Safari, Android, iOS */
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: "Louis George Café Light";
+src: url("Louis George Café Light.eot") format("eot"); /* IE9 Compat Modes */
+src: url("Louis George Café Light.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+     url("Louis George Café Light.woff") format("woff"), /* Modern Browsers */
+     url("Louis George Café Light.ttf") format("truetype"); /* Safari, Android, iOS */
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: "Louis George Café";
+src: url("Louis George Café.eot") format("eot"); /* IE9 Compat Modes */
+src: url("Louis George Café.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+     url("Louis George Café.woff") format("woff"), /* Modern Browsers */
+     url("Louis George Café.ttf") format("truetype"); /* Safari, Android, iOS */
+font-weight: normal;
+font-style: normal;
+}
